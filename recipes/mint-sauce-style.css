@@ -1,3 +1,64 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: block;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(11, 85, 11);
+    font-weight: bold;
+    background-color: #e7e5e5;
+    border: 3px solid black;
+    padding: 15px;
+    margin: 30px;
+    text-align: center;
+}
+
+img {
+    float: right;
+    margin-right: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 10px;
+    border: 3px solid black;
+    display: inline;
+    padding: 5px;
+}
+
+.description {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 10px;
+    border: 3px solid black;
+    display: inline;
+    padding: 5px;
+}
+
+ul {
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+h4 {
+    font-size: 30px;
+    margin-left: 10px;
+    border: 3px solid black;
+    display: inline;
+    padding: 5px;
+}
+
+ol {
+    font-size: 20px;
+    margin-left: 15px;
+}
